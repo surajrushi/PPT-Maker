@@ -1,0 +1,27 @@
+[
+  {
+    "slide_no": 1,
+    "title": "Android Development",
+    "content": "Android is a mobile operating system developed by Google. It is based on the Linux kernel and uses the Java programming language. Android is the most popular mobile operating system in the world, with over 2.5 billion active devices as of 2022."
+  },
+  {
+    "slide_no": 2,
+    "title": "Android Architecture",
+    "content": "The Android operating system is made up of a number of different components, which work together to provide a smooth and user-friendly experience. These components include the Linux kernel, the Android Runtime (ART), the Android framework, and the application layer."
+  },
+  {
+    "slide_no": 3,
+    "title": "Android Development Tools",
+    "content": "There are a number of different tools available for developing Android applications. These tools include the Android Studio IDE, the Android SDK, and the Android Debug Bridge (ADB)."
+  },
+  {
+    "slide_no": 4,
+    "title": "Android Development Process",
+    "content": "The Android development process can be broken down into a number of different steps, including planning, design, development, testing, and deployment."
+  },
+  {
+    "slide_no": 5,
+    "title": "Android Development Resources",
+    "content": "There are a number of resources available to help you learn how to develop Android applications. These resources include online tutorials, books, and courses."
+  }
+]
